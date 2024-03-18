@@ -1,2 +1,2 @@
 # ICSPROJECT
-!["ss"](https://drive.google.com/file/d/1snOIEPAeokjZXUu1curhaEBEfaEY6lYv/view?usp=drive_link)
+!["ss"](https://github.com/RudrakshBavisa/ICSPROJECT/blob/main/ss1.png)
